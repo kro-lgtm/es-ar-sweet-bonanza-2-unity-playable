@@ -2,4 +2,4 @@
 
 Static host for Unity Ads Playable Test App. Built by Playable Maker (`Convert-Playable.ps1`).
 
-Open: [ru-rub-sweet-bonanza-2-r2-Unity.html](./ru-rub-sweet-bonanza-2-r2-Unity.html)
+Open: [ru-rub-sweet-bonanza-2-r3-Unity.html](./ru-rub-sweet-bonanza-2-r3-Unity.html)
